@@ -1,0 +1,16 @@
+{
+  "name": "signalk-tempest",
+  "version": "1.1.0",
+  "description": "Weather Data from Tempest",
+  "main": "index.js",
+  "signalk-plugin-enabled-by-default": true,
+  "author": "Michael Friedel",
+  "license": "Apache 2.0",
+  "keywords": [
+    "signalk-node-server-plugin",
+    "signalk-category-weather"
+  ],
+  "dependencies": {
+    "signalk-tempest": "^1.1.0"
+  }
+}
